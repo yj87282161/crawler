@@ -1,0 +1,1553 @@
+1510284085230	geckodriver	INFO	geckodriver 0.19.1
+1510284085241	geckodriver	INFO	Listening on 127.0.0.1:4241
+1510284085612	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.a9mqTiFshzab"
+1510284087574	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510284088981	Marionette	INFO	Enabled via --marionette
+[Child 7908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510284101327	Marionette	INFO	Listening on port 4248
+1510284102132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510284102210	Marionette	DEBUG	Register listener.js for window 6442450945
+1510284102270	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510284102868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510284102869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510284103713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510284106424	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510284106474	Marionette	INFO	New connections will no longer be accepted
+1510284328704	geckodriver	INFO	geckodriver 0.19.1
+1510284328713	geckodriver	INFO	Listening on 127.0.0.1:4665
+1510284329234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NSplBbKDNA6Y"
+1510284329827	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510284330905	Marionette	INFO	Enabled via --marionette
+[Parent 8716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510284337096	Marionette	INFO	Listening on port 4671
+1510284337473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510284337520	Marionette	DEBUG	Register listener.js for window 4294967297
+1510284337557	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510284337639	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510284337639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510284337792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510284341924	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510284341962	Marionette	INFO	New connections will no longer be accepted
+1510286675593	geckodriver	INFO	geckodriver 0.19.1
+1510286675602	geckodriver	INFO	Listening on 127.0.0.1:8185
+1510286676130	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.inp4N4DuPrlZ"
+1510286676520	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510286677608	Marionette	INFO	Enabled via --marionette
+[Child 9696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510286689003	Marionette	INFO	Listening on port 8189
+1510286689272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510286689320	Marionette	DEBUG	Register listener.js for window 4294967297
+1510286689369	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510286689517	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510286689518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510286689935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510286692110	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 10012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510286797856	geckodriver	INFO	geckodriver 0.19.1
+1510286797865	geckodriver	INFO	Listening on 127.0.0.1:8424
+1510286798381	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fRZucQaU42ax"
+1510286798782	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510286800313	Marionette	INFO	Enabled via --marionette
+[Parent 6992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510286806022	Marionette	INFO	Listening on port 8428
+1510286806108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510286806157	Marionette	DEBUG	Register listener.js for window 4294967297
+1510286806205	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510286806286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510286806286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510286806467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510286808504	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 6992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8300] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8300] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510288275190	Marionette	INFO	Enabled via --marionette
+[Parent 10044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510288283115	Marionette	INFO	Listening on port 10656
+1510288283222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510288283281	Marionette	DEBUG	Register listener.js for window 4294967297
+1510288283316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510288283405	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510288283405	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510288283630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510288285924	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 10044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510288337438	Marionette	INFO	Enabled via --marionette
+1510288344281	Marionette	INFO	Listening on port 10797
+1510288344771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510288344822	Marionette	DEBUG	Register listener.js for window 4294967297
+1510288344859	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510288345098	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510288345098	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510288345252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510288347841	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 9764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+heckForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510288744050	Marionette	INFO	Enabled via --marionette
+[Child 8824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510288751342	Marionette	INFO	Listening on port 11502
+1510288751636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510288751688	Marionette	DEBUG	Register listener.js for window 4294967297
+1510288751719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510288751814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510288751814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510288752364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510288754567	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Child 9400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510288828253	geckodriver	INFO	geckodriver 0.19.1
+1510288828261	geckodriver	INFO	Listening on 127.0.0.1:11676
+1510288828812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.610iUJT7bfA4"
+1510288829185	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510288830332	Marionette	INFO	Enabled via --marionette
+1510288835188	Marionette	INFO	Listening on port 11680
+1510288835357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510288835423	Marionette	DEBUG	Register listener.js for window 4294967297
+1510288835456	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510288835538	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510288835539	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510288835935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510288837955	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 8476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510288878890	Marionette	INFO	Enabled via --marionette
+[Child 3628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510288887218	Marionette	INFO	Listening on port 11807
+1510288887304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510288887353	Marionette	DEBUG	Register listener.js for window 4294967297
+1510288887387	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510288887491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510288887491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510288887913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510288889788	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 3284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9280] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510289417811	geckodriver	INFO	geckodriver 0.19.1
+1510289417820	geckodriver	INFO	Listening on 127.0.0.1:12647
+1510289418347	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GSypRX2olSiX"
+1510289418752	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510289419838	Marionette	INFO	Enabled via --marionette
+[Child 9016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510289425417	Marionette	INFO	Listening on port 12653
+1510289425504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510289425574	Marionette	DEBUG	Register listener.js for window 4294967297
+1510289425625	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510289425790	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510289425790	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510289426092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510289428893	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Child 8260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510289728116	geckodriver	INFO	geckodriver 0.19.1
+1510289728125	geckodriver	INFO	Listening on 127.0.0.1:13163
+1510289728657	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.o59vd5fkvmAT"
+1510289729137	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510289730456	Marionette	INFO	Enabled via --marionette
+[Parent 9924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510289736303	Marionette	INFO	Listening on port 13167
+1510289736386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510289736450	Marionette	DEBUG	Register listener.js for window 4294967297
+1510289736493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510289736572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510289736573	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510289736797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510289739174	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Child 6652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510290148809	Marionette	INFO	Enabled via --marionette
+[Child 7500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510290154376	Marionette	INFO	Listening on port 14282
+1510290154479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510290154536	Marionette	DEBUG	Register listener.js for window 4294967297
+1510290154572	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510290154720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510290154720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510290154900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510290157455	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 8316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510290206142	geckodriver	INFO	geckodriver 0.19.1
+1510290206151	geckodriver	INFO	Listening on 127.0.0.1:14418
+1510290206686	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fM1z9x7N23TP"
+1510290207605	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510290208672	Marionette	INFO	Enabled via --marionette
+[Parent 9400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510290213554	Marionette	INFO	Listening on port 14424
+1510290213823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510290213866	Marionette	DEBUG	Register listener.js for window 4294967297
+1510290213898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510290214038	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510290214038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510290214376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510290218522	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Child 9924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510290365038	geckodriver	INFO	geckodriver 0.19.1
+1510290365046	geckodriver	INFO	Listening on 127.0.0.1:14720
+1510290365549	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HLb4vSAGNTXQ"
+1510290365972	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510290367140	Marionette	INFO	Enabled via --marionette
+[Child 11052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510290372544	Marionette	INFO	Listening on port 14724
+1510290372714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510290372766	Marionette	DEBUG	Register listener.js for window 4294967297
+1510290372803	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510290372884	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510290372885	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510290373218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510290375717	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 10788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11008] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11008] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510292714409	geckodriver	INFO	geckodriver 0.19.1
+1510292714418	geckodriver	INFO	Listening on 127.0.0.1:18297
+1510292714922	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jPnDrTJDgulC"
+1510292715741	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510292719561	Marionette	INFO	Enabled via --marionette
+[Parent 10760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510292731715	Marionette	INFO	Listening on port 18301
+1510292732255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510292732320	Marionette	DEBUG	Register listener.js for window 4294967297
+1510292732378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510292732821	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510292732821	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510292733247	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510292735947	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+[Parent 10760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510293445117	Marionette	INFO	Enabled via --marionette
+[Child 10012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510293457815	Marionette	INFO	Listening on port 20318
+1510293458074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510293458128	Marionette	DEBUG	Register listener.js for window 4294967297
+1510293458159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510293458435	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510293458436	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510293458680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510293461226	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510293461271	Marionette	INFO	New connections will no longer be accepted
+1510293549059	geckodriver	INFO	geckodriver 0.19.1
+1510293549069	geckodriver	INFO	Listening on 127.0.0.1:20630
+1510293549611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.onIuEVHNjty6"
+1510293550075	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510293551404	Marionette	INFO	Enabled via --marionette
+[Parent 11676] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510293557809	Marionette	INFO	Listening on port 20636
+1510293557870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510293557925	Marionette	DEBUG	Register listener.js for window 4294967297
+1510293557964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510293558101	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510293558102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510293558255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510293562470	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510293562497	Marionette	INFO	New connections will no longer be accepted
+[Child 8916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510294751092	geckodriver	INFO	geckodriver 0.19.1
+1510294751103	geckodriver	INFO	Listening on 127.0.0.1:22876
+1510294751319	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gmNmb5Is1J4G"
+1510294751908	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510294753255	Marionette	INFO	Enabled via --marionette
+1510294757968	Marionette	INFO	Listening on port 22882
+1510294758469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510294758524	Marionette	DEBUG	Register listener.js for window 6442450945
+1510294758557	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510294759237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510294759237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510294759385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510294761753	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510294762002	Marionette	INFO	New connections will no longer be accepted
+1510295231250	geckodriver	INFO	geckodriver 0.19.1
+1510295231259	geckodriver	INFO	Listening on 127.0.0.1:23005
+1510295231797	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4Y2xF5r02vhE"
+1510295232199	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510295233642	Marionette	INFO	Enabled via --marionette
+[Parent 8016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295239817	Marionette	INFO	Listening on port 23009
+1510295240063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510295240116	Marionette	DEBUG	Register listener.js for window 4294967297
+1510295240146	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510295240233	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510295240233	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510295240395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510295243595	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510295243617	Marionette	INFO	New connections will no longer be accepted
+1510295293491	geckodriver	INFO	geckodriver 0.19.1
+1510295293500	geckodriver	INFO	Listening on 127.0.0.1:23176
+1510295294056	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bOVekeGZSgn0"
+1510295294445	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510295295591	Marionette	INFO	Enabled via --marionette
+[Child 9568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295301812	Marionette	INFO	Listening on port 23180
+1510295302301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510295302380	Marionette	DEBUG	Register listener.js for window 4294967297
+1510295302414	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510295302532	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510295302532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510295302940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510295321971	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510295330820	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510295330886	Marionette	INFO	New connections will no longer be accepted
+[Parent 12040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295578916	geckodriver	INFO	geckodriver 0.19.1
+1510295578924	geckodriver	INFO	Listening on 127.0.0.1:23699
+1510295579438	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pUvFNdhP70ng"
+1510295579841	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510295581141	Marionette	INFO	Enabled via --marionette
+[Child 12284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295587729	Marionette	INFO	Listening on port 23703
+1510295588165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510295588212	Marionette	DEBUG	Register listener.js for window 6442450945
+1510295588241	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510295588326	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510295588327	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510295589000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510295592352	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510295592516	Marionette	INFO	New connections will no longer be accepted
+1510295710189	geckodriver	INFO	geckodriver 0.19.1
+1510295710200	geckodriver	INFO	Listening on 127.0.0.1:23951
+1510295710739	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6D4ZWFXyotMY"
+1510295711140	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510295712169	Marionette	INFO	Enabled via --marionette
+1510295716587	Marionette	INFO	Listening on port 23955
+1510295716839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510295716890	Marionette	DEBUG	Register listener.js for window 4294967297
+1510295716919	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510295717000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510295717001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510295717555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510295719461	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510295719524	Marionette	INFO	New connections will no longer be accepted
+[Parent 1544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295805760	geckodriver	INFO	geckodriver 0.19.1
+1510295805769	geckodriver	INFO	Listening on 127.0.0.1:24204
+1510295806331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.YBx5r5vtGeJD"
+1510295806707	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510295807818	Marionette	INFO	Enabled via --marionette
+[Child 7824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510295812223	Marionette	INFO	Listening on port 24210
+1510295812491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510295812547	Marionette	DEBUG	Register listener.js for window 4294967297
+1510295812572	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510295812750	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510295812751	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510295813431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510295815299	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510295815628	Marionette	INFO	New connections will no longer be accepted
+[Parent 8664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510296200278	geckodriver	INFO	geckodriver 0.19.1
+1510296200288	geckodriver	INFO	Listening on 127.0.0.1:24918
+1510296200837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.61BAo72Mgpim"
+1510296201220	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510296202353	Marionette	INFO	Enabled via --marionette
+[Parent 5204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510296207635	Marionette	INFO	Listening on port 24922
+1510296208053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510296208108	Marionette	DEBUG	Register listener.js for window 4294967297
+1510296208141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510296208279	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510296208279	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510296208494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510296211246	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510296211533	Marionette	DEBUG	Register listener.js for window 4294967301
+1510296211699	Marionette	INFO	New connections will no longer be accepted
+1510296253678	geckodriver	INFO	geckodriver 0.19.1
+1510296253688	geckodriver	INFO	Listening on 127.0.0.1:25054
+1510296254241	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lVklsljmwo1U"
+1510296254605	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510296255717	Marionette	INFO	Enabled via --marionette
+1510296260106	Marionette	INFO	Listening on port 25060
+1510296260301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510296260348	Marionette	DEBUG	Register listener.js for window 4294967297
+1510296260378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510296260531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510296260531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510296260674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510296263417	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510296263579	Marionette	DEBUG	Register listener.js for window 4294967301
+1510296263737	Marionette	INFO	New connections will no longer be accepted
+1510296363618	geckodriver	INFO	geckodriver 0.19.1
+1510296363627	geckodriver	INFO	Listening on 127.0.0.1:25277
+1510296364161	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VM5Jg16ExCkI"
+1510296364576	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510296365641	Marionette	INFO	Enabled via --marionette
+1510296371990	Marionette	INFO	Listening on port 25281
+1510296372406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510296372452	Marionette	DEBUG	Register listener.js for window 6442450945
+1510296372483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510296372789	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510296372790	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510296373084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510296375527	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510296375686	Marionette	DEBUG	Register listener.js for window 6442450949
+1510296386117	Marionette	INFO	New connections will no longer be accepted
+[Parent 11648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510296470213	geckodriver	INFO	geckodriver 0.19.1
+1510296470221	geckodriver	INFO	Listening on 127.0.0.1:25534
+1510296470773	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0HmdF0xFn0NH"
+1510296471166	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510296472247	Marionette	INFO	Enabled via --marionette
+[Child 11392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510296477222	Marionette	INFO	Listening on port 25540
+1510296477323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510296477377	Marionette	DEBUG	Register listener.js for window 4294967297
+1510296477443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510296477521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510296477522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510296477754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510296479989	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510296480143	Marionette	DEBUG	Register listener.js for window 4294967301
+1510296500326	Marionette	INFO	New connections will no longer be accepted
+1510296990295	geckodriver	INFO	geckodriver 0.19.1
+1510296990304	geckodriver	INFO	Listening on 127.0.0.1:26561
+1510296990793	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AOrY6n7iin1j"
+1510296991198	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510296992249	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+Promise rejected after context unloaded: Message manager disconnected
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 328: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+[Child 11636] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 2035: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsPIPlacesDatabase.connectionShutdownClient]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510297024439	geckodriver	INFO	geckodriver 0.19.1
+1510297024448	geckodriver	INFO	Listening on 127.0.0.1:26641
+1510297024991	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GkcqKKwLnNrs"
+1510297025367	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297026645	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510297032385	Marionette	INFO	Listening on port 26647
+1510297032614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297032658	Marionette	DEBUG	Register listener.js for window 6442450945
+1510297032762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297032910	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297032911	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297033446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297035225	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297035394	Marionette	DEBUG	Register listener.js for window 6442450949
+1510297035576	Marionette	INFO	New connections will no longer be accepted
+[Parent 10628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510297114037	geckodriver	INFO	geckodriver 0.19.1
+1510297114046	geckodriver	INFO	Listening on 127.0.0.1:26856
+1510297114585	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bJaUdTJExPAz"
+1510297114960	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297116035	Marionette	INFO	Enabled via --marionette
+[Parent 10036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510297121502	Marionette	INFO	Listening on port 26861
+1510297121767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297121834	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297121870	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297121946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297121947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297122339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297124441	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297124663	Marionette	DEBUG	Register listener.js for window 4294967301
+[Parent 10036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9720] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9720] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510297189012	geckodriver	INFO	geckodriver 0.19.1
+1510297189022	geckodriver	INFO	Listening on 127.0.0.1:27038
+1510297189574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.un3fCsc8pURH"
+1510297189949	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297191133	Marionette	INFO	Enabled via --marionette
+[Child 9800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510297195753	Marionette	INFO	Listening on port 27044
+1510297196150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297196197	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297196235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297196415	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297196415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297196558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297201007	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297201193	Marionette	DEBUG	Register listener.js for window 4294967301
+[Child 10304] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10304] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510297277865	geckodriver	INFO	geckodriver 0.19.1
+1510297277874	geckodriver	INFO	Listening on 127.0.0.1:27249
+1510297278405	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ezBCZzOIGFqv"
+1510297278823	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297280050	Marionette	INFO	Enabled via --marionette
+1510297285235	Marionette	INFO	Listening on port 27253
+1510297285546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297285601	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297285634	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297286024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297286024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297286194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297288532	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297288720	Marionette	DEBUG	Register listener.js for window 4294967301
+[Child 11248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12212] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12212] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510297355262	geckodriver	INFO	geckodriver 0.19.1
+1510297355271	geckodriver	INFO	Listening on 127.0.0.1:27441
+1510297355836	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.a2J71uQ5Mr9b"
+1510297356240	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297357534	Marionette	INFO	Enabled via --marionette
+1510297362188	Marionette	INFO	Listening on port 27447
+1510297362402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297362461	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297362491	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297362678	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297362679	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297363217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297365168	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297365323	Marionette	DEBUG	Register listener.js for window 4294967301
+1510297375651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eckForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297842251	Marionette	INFO	Enabled via --marionette
+[Parent 9940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510297849990	Marionette	INFO	Listening on port 28472
+1510297850039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297850100	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297850132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297850271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297850271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297850688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297853063	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297853238	Marionette	DEBUG	Register listener.js for window 4294967301
+1510297863542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9612] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510297915475	Marionette	INFO	Enabled via --marionette
+1510297924316	Marionette	INFO	Listening on port 28675
+1510297924565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510297924628	Marionette	DEBUG	Register listener.js for window 4294967297
+1510297924669	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510297924766	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510297924766	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510297925637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510297927920	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510297928078	Marionette	DEBUG	Register listener.js for window 4294967301
+1510297938406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 8088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510298265834	Marionette	INFO	Enabled via --marionette
+[Child 7304] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510298276165	Marionette	INFO	Listening on port 29385
+1510298276374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510298276423	Marionette	DEBUG	Register listener.js for window 4294967297
+1510298276452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510298276546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510298276546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510298277001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510298279744	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510298279897	Marionette	DEBUG	Register listener.js for window 4294967301
+1510298290230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+UND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510298342178	Marionette	INFO	Enabled via --marionette
+[Parent 11756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510298348607	Marionette	INFO	Listening on port 29602
+1510298349025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510298349077	Marionette	DEBUG	Register listener.js for window 4294967297
+1510298349109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510298349219	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510298349220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510298349382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510298354156	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510298354312	Marionette	DEBUG	Register listener.js for window 4294967301
+1510298364621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11212] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11212] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510298751909	geckodriver	INFO	geckodriver 0.19.1
+1510298751918	geckodriver	INFO	Listening on 127.0.0.1:30536
+1510298752416	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HyO2Xi9Z3t1u"
+1510298752886	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510298754312	Marionette	INFO	Enabled via --marionette
+1510298758570	Marionette	INFO	Listening on port 30542
+1510298758958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510298759008	Marionette	DEBUG	Register listener.js for window 4294967297
+1510298759032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510298759281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510298759281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510298759646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510298762030	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510298762224	Marionette	DEBUG	Register listener.js for window 4294967301
+1510298772535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10196] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10196] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510298931661	geckodriver	INFO	geckodriver 0.19.1
+1510298931671	geckodriver	INFO	Listening on 127.0.0.1:30936
+1510298932166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8temuZQcPD2k"
+1510298932741	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510298933806	Marionette	INFO	Enabled via --marionette
+1510298938556	Marionette	INFO	Listening on port 30941
+1510298938700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510298938744	Marionette	DEBUG	Register listener.js for window 4294967297
+1510298938773	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510298939159	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510298939160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510298939459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510298941816	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510298941973	Marionette	DEBUG	Register listener.js for window 4294967301
+1510298952311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510299022483	geckodriver	INFO	geckodriver 0.19.1
+1510299022492	geckodriver	INFO	Listening on 127.0.0.1:31205
+1510299023033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TzGZEEzefo6D"
+1510299023523	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510299024893	Marionette	INFO	Enabled via --marionette
+[Parent 10936] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8548] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510299030058	Marionette	INFO	Listening on port 31212
+1510299030265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510299030310	Marionette	DEBUG	Register listener.js for window 4294967297
+1510299030346	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510299030427	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510299030427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510299030619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510299035313	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510299035482	Marionette	DEBUG	Register listener.js for window 4294967301
+1510299045796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9560] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510299919231	geckodriver	INFO	geckodriver 0.19.1
+1510299919242	geckodriver	INFO	Listening on 127.0.0.1:33065
+1510299919470	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.agBTEeo6t4OE"
+1510299919884	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510299921191	Marionette	INFO	Enabled via --marionette
+[Child 8088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510299927377	Marionette	INFO	Listening on port 33069
+1510299927709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510299927772	Marionette	DEBUG	Register listener.js for window 4294967297
+1510299927821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510299927971	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510299927972	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510299928674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510299932946	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510299933112	Marionette	DEBUG	Register listener.js for window 4294967301
+1510299943431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11952] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11952] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510300231086	geckodriver	INFO	geckodriver 0.19.1
+1510300231094	geckodriver	INFO	Listening on 127.0.0.1:34016
+1510300231629	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iC5CEkIQo34a"
+1510300232046	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510300233481	Marionette	INFO	Enabled via --marionette
+[Parent 11244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1380] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1380] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510300238733	Marionette	INFO	Listening on port 34022
+1510300238800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510300238861	Marionette	DEBUG	Register listener.js for window 6442450945
+1510300238894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510300239154	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510300239155	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510300239762	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510300242010	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510300242165	Marionette	DEBUG	Register listener.js for window 6442450949
+1510300252510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11900] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510300300828	geckodriver	INFO	geckodriver 0.19.1
+1510300300837	geckodriver	INFO	Listening on 127.0.0.1:34297
+1510300301385	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9BBn5vfm01pv"
+1510300301927	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510300303141	Marionette	INFO	Enabled via --marionette
+1510300307735	Marionette	INFO	Listening on port 34305
+1510300307938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510300307995	Marionette	DEBUG	Register listener.js for window 6442450945
+1510300308027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510300308191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510300308192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510300308339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510300310805	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510300310951	Marionette	DEBUG	Register listener.js for window 6442450949
+1510300321288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3364] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3364] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510302996287	geckodriver	INFO	geckodriver 0.19.1
+1510302996328	geckodriver	INFO	Listening on 127.0.0.1:54572
+1510302999245	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.M7vb9vwISLKU"
+1510303001600	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510303007554	Marionette	INFO	Enabled via --marionette
+[Child 11944] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510303024296	Marionette	INFO	Listening on port 54581
+1510303025664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510303025916	Marionette	DEBUG	Register listener.js for window 4294967297
+1510303028136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510303028450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510303028450	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510303029799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510303031123	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510303031940	Marionette	DEBUG	Register listener.js for window 4294967301
+1510303042285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 92: TypeError: this.tabTarget is null
+[Child 11704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9060] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9060] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10068] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510304604558	geckodriver	INFO	geckodriver 0.19.1
+1510304604568	geckodriver	INFO	Listening on 127.0.0.1:57656
+1510304606116	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wiM8Pl2XicqN"
+1510304606534	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510304607656	Marionette	INFO	Enabled via --marionette
+1510304612907	Marionette	INFO	Listening on port 57665
+1510304613250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510304613297	Marionette	DEBUG	Register listener.js for window 4294967297
+1510304613330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510304613791	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510304613791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510304614062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510304616680	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510304616828	Marionette	DEBUG	Register listener.js for window 4294967301
+1510304627155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510304694243	Marionette	INFO	Enabled via --marionette
+[Parent 10256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 328: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+Promise rejected after context unloaded: Message manager disconnected
+[Parent 10256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 2035: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsPIPlacesDatabase.connectionShutdownClient]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510304715420	geckodriver	INFO	geckodriver 0.19.1
+1510304715428	geckodriver	INFO	Listening on 127.0.0.1:57924
+1510304715974	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OYumwClm9qBK"
+1510304716507	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510304717615	Marionette	INFO	Enabled via --marionette
+[Parent 11568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510304722896	Marionette	INFO	Listening on port 57928
+1510304723112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510304723174	Marionette	DEBUG	Register listener.js for window 4294967297
+1510304723205	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510304723888	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510304723889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510304724050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510304728227	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510304728375	Marionette	DEBUG	Register listener.js for window 4294967301
+1510304738709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510304811001	Marionette	INFO	Enabled via --marionette
+1510304817075	Marionette	INFO	Listening on port 58146
+1510304817445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510304817500	Marionette	DEBUG	Register listener.js for window 4294967297
+1510304817522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510304817611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510304817611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510304817791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510304819824	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510304819967	Marionette	DEBUG	Register listener.js for window 4294967301
+1510304830289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510304855011	Marionette	INFO	Enabled via --marionette
+1510304860538	Marionette	INFO	Listening on port 58290
+1510304860924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510304860977	Marionette	DEBUG	Register listener.js for window 6442450945
+1510304861009	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510304861573	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510304861574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510304861751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510304865741	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510304865888	Marionette	DEBUG	Register listener.js for window 6442450949
+1510304876226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11952] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510310889844	geckodriver	INFO	geckodriver 0.19.1
+1510310889882	geckodriver	INFO	Listening on 127.0.0.1:1566
+1510310890192	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.avz7o6lcyvOq"
+1510310895040	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510310897915	Marionette	INFO	Enabled via --marionette
+[Parent 3608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510310924551	Marionette	INFO	Listening on port 1575
+1510310925824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510310926048	Marionette	DEBUG	Register listener.js for window 6442450945
+1510310926235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510310926896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510310926896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510310929744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510310929898	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510310931616	Marionette	DEBUG	Register listener.js for window 6442450949
+1510310941949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 3608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7576] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1510311050497	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510311051839	Marionette	INFO	Enabled via --marionette
+1510311056897	Marionette	INFO	Listening on port 2146
+1510311057015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510311057064	Marionette	DEBUG	Register listener.js for window 4294967297
+1510311057095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510311057210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510311057210	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510311057430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510311058656	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510311058803	Marionette	DEBUG	Register listener.js for window 4294967301
+1510311069088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 3136] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 92: TypeError: this.tabTarget is null
+[Child 7276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7488] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1510311709782	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510311710921	Marionette	INFO	Enabled via --marionette
+1510311715982	Marionette	INFO	Listening on port 3680
+1510311716318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510311716399	Marionette	DEBUG	Register listener.js for window 4294967297
+1510311716428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510311716510	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510311716511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510311716916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510311716993	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510311717198	Marionette	DEBUG	Register listener.js for window 4294967301
+1510311727545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+)@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510312077893	Marionette	INFO	Enabled via --marionette
+[Parent 8780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510312084763	Marionette	INFO	Listening on port 4563
+[Child 7920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510312085176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510312085238	Marionette	DEBUG	Register listener.js for window 4294967297
+1510312085266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510312085356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510312085356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510312085787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510312085839	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510312085983	Marionette	DEBUG	Register listener.js for window 4294967301
+1510312096279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 3508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510312704233	geckodriver	INFO	geckodriver 0.19.1
+1510312704242	geckodriver	INFO	Listening on 127.0.0.1:5738
+1510312704684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Z0dQ5AhtAhpB"
+1510312705299	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510312706459	Marionette	INFO	Enabled via --marionette
+[Child 8736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510312710927	Marionette	INFO	Listening on port 5745
+1510312711214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510312711261	Marionette	DEBUG	Register listener.js for window 4294967297
+1510312711296	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510312711382	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510312711383	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510312711577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510312711853	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510312711971	Marionette	DEBUG	Register listener.js for window 4294967301
+1510312722319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7636] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+Provider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510313177984	Marionette	INFO	Enabled via --marionette
+1510313183680	Marionette	INFO	Listening on port 6576
+1510313183769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510313183825	Marionette	DEBUG	Register listener.js for window 4294967297
+1510313183869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510313183961	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510313183962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510313184115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510313184505	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510313184628	Marionette	DEBUG	Register listener.js for window 4294967301
+1510313194936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510313385432	geckodriver	INFO	geckodriver 0.19.1
+1510313385440	geckodriver	INFO	Listening on 127.0.0.1:6951
+1510313385968	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.MKXTPUxAUzzD"
+1510313386421	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510313387715	Marionette	INFO	Enabled via --marionette
+1510313394155	Marionette	INFO	Listening on port 6955
+1510313394236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510313394287	Marionette	DEBUG	Register listener.js for window 4294967297
+1510313394316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510313394431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510313394432	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510313394651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510313394887	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510313395008	Marionette	DEBUG	Register listener.js for window 4294967301
+1510313405312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510314157189	Marionette	INFO	Enabled via --marionette
+[Parent 6956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510314166024	Marionette	INFO	Listening on port 8224
+1510314166138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510314166188	Marionette	DEBUG	Register listener.js for window 4294967297
+1510314166242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510314166371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510314166372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510314166623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510314166884	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510314167003	Marionette	DEBUG	Register listener.js for window 4294967301
+1510314177286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7140] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7140] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510316396486	Marionette	INFO	Enabled via --marionette
+[Child 8396] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8396] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510316403121	Marionette	INFO	Listening on port 12138
+1510316403501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510316403563	Marionette	DEBUG	Register listener.js for window 4294967297
+1510316403619	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510316403714	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510316403715	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510316403975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510316404242	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510316404389	Marionette	DEBUG	Register listener.js for window 4294967301
+1510316414707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8432] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510316896375	geckodriver	INFO	geckodriver 0.19.1
+1510316896391	geckodriver	INFO	Listening on 127.0.0.1:13088
+1510316896892	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.E0MSFKLT8Wcw"
+1510316898212	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510316899586	Marionette	INFO	Enabled via --marionette
+[Child 8920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510316904741	Marionette	INFO	Listening on port 13092
+1510316904758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510316904822	Marionette	DEBUG	Register listener.js for window 6442450945
+1510316904870	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510316904956	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510316904956	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510316905747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510316905754	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510316905899	Marionette	DEBUG	Register listener.js for window 6442450949
+1510316916211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510316926643	geckodriver::marionette	ERROR	Failed to kill browser process
+1510316940093	geckodriver	INFO	geckodriver 0.19.1
+1510316940108	geckodriver	INFO	Listening on 127.0.0.1:13228
+1510316940653	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IAtYNmk1xWAg"
+1510316941010	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510316942027	Marionette	INFO	Enabled via --marionette
+[Parent 8280] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510316946757	Marionette	INFO	Listening on port 13234
+1510316946896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510316946950	Marionette	DEBUG	Register listener.js for window 4294967297
+1510316947006	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510316947090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510316947090	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510316947532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510316947865	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510316948001	Marionette	DEBUG	Register listener.js for window 4294967301
+1510316958295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8068] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8068] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510317237206	geckodriver	INFO	geckodriver 0.19.1
+1510317237206	geckodriver	INFO	Listening on 127.0.0.1:13815
+1510317237736	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.uiOz6Lr3qcEi"
+1510317238176	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510317239407	Marionette	INFO	Enabled via --marionette
+[Parent 8176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3820] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3820] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510317244063	Marionette	INFO	Listening on port 13819
+1510317244398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510317244443	Marionette	DEBUG	Register listener.js for window 4294967297
+1510317244471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510317244557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510317244557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510317244694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510317245014	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510317245155	Marionette	DEBUG	Register listener.js for window 4294967301
+1510317255447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510317436085	Marionette	DEBUG	Register listener.js for window 4294967304
+1510317446390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510317642650	Marionette	DEBUG	Register listener.js for window 4294967307
+1510317652906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510317862359	Marionette	DEBUG	Register listener.js for window 4294967310
+1510317872644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510318075346	Marionette	DEBUG	Register listener.js for window 4294967313
+1510318085639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510318293959	Marionette	DEBUG	Register listener.js for window 4294967316
+1510318304252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510318512145	Marionette	DEBUG	Register listener.js for window 4294967319
+1510318522433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510318761866	Marionette	DEBUG	Register listener.js for window 4294967322
+1510318772183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510319013199	Marionette	DEBUG	Register listener.js for window 4294967325
+1510319023487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510319225867	Marionette	DEBUG	Register listener.js for window 4294967328
+1510319236115	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510319446309	Marionette	DEBUG	Register listener.js for window 4294967331
+1510319456567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510319712391	Marionette	DEBUG	Register listener.js for window 4294967334
+1510319722647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510319981466	Marionette	DEBUG	Register listener.js for window 4294967337
+1510319991751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510320208946	Marionette	DEBUG	Register listener.js for window 4294967340
+1510320219197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510320433165	Marionette	DEBUG	Register listener.js for window 4294967343
+1510320443430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 8176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510320942214	geckodriver	INFO	geckodriver 0.19.1
+1510320942214	geckodriver	INFO	Listening on 127.0.0.1:17740
+1510320942635	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TpSY2sJPF7UF"
+1510320943567	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510320944646	Marionette	INFO	Enabled via --marionette
+[Child 9016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510320949894	Marionette	INFO	Listening on port 17745
+1510320949949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510320950010	Marionette	DEBUG	Register listener.js for window 4294967297
+1510320950043	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510320950146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510320950146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510320950478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510320950737	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510320950871	Marionette	DEBUG	Register listener.js for window 4294967301
+1510320961208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510321142703	Marionette	DEBUG	Register listener.js for window 4294967304
+1510321152971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510321347918	Marionette	DEBUG	Register listener.js for window 4294967307
+1510321358198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510321568868	Marionette	DEBUG	Register listener.js for window 4294967310
+1510321579137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510321785802	Marionette	DEBUG	Register listener.js for window 4294967313
+1510321796097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510322006979	Marionette	DEBUG	Register listener.js for window 4294967316
+1510322017269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510322227566	Marionette	DEBUG	Register listener.js for window 4294967319
+1510322237850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510322479443	Marionette	DEBUG	Register listener.js for window 4294967322
+1510322489723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510322726064	Marionette	DEBUG	Register listener.js for window 4294967325
+1510322736338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510322934694	Marionette	DEBUG	Register listener.js for window 4294967328
+1510322944960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510323154249	Marionette	DEBUG	Register listener.js for window 4294967331
+1510323164522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510323418701	Marionette	DEBUG	Register listener.js for window 4294967334
+1510323428992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510323691135	Marionette	DEBUG	Register listener.js for window 4294967337
+1510323701405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510323921281	Marionette	DEBUG	Register listener.js for window 4294967340
+1510323931555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510324149024	Marionette	DEBUG	Register listener.js for window 4294967343
+1510324159292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510324349371	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/"
+1510324349459	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/"
+1510324349459	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/"
+1510324349602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/2"
+1510324349772	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/2"
+1510324349870	Marionette	DEBUG	Register listener.js for window 4294967347
+1510324360179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510324648149	Marionette	DEBUG	Register listener.js for window 4294967350
+1510324658437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510324889065	Marionette	DEBUG	Register listener.js for window 4294967353
+1510324899332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510325101082	Marionette	DEBUG	Register listener.js for window 4294967356
+1510325111297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510325308039	Marionette	DEBUG	Register listener.js for window 4294967359
+1510325318318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510325519178	Marionette	DEBUG	Register listener.js for window 4294967362
+1510325529473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510325765378	Marionette	DEBUG	Register listener.js for window 4294967365
+1510325775628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510325955814	Marionette	DEBUG	Register listener.js for window 4294967368
+1510325966120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510326194855	Marionette	DEBUG	Register listener.js for window 4294967371
+1510326205124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510326394800	Marionette	DEBUG	Register listener.js for window 4294967374
+1510326405083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510326640407	Marionette	DEBUG	Register listener.js for window 4294967377
+1510326650676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510326880299	Marionette	DEBUG	Register listener.js for window 4294967380
+1510326890562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510327091465	Marionette	DEBUG	Register listener.js for window 4294967383
+1510327101760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510327300662	Marionette	DEBUG	Register listener.js for window 4294967386
+1510327310962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510327533704	Marionette	DEBUG	Register listener.js for window 4294967389
+1510327543992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510327764673	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/2"
+1510327764813	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/2"
+1510327764813	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/2"
+1510327764943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/3"
+1510327765207	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/3"
+1510327765284	Marionette	DEBUG	Register listener.js for window 4294967393
+1510327775570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510328060653	Marionette	DEBUG	Register listener.js for window 4294967396
+1510328070947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510328317592	Marionette	DEBUG	Register listener.js for window 4294967399
+1510328327881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510328533118	Marionette	DEBUG	Register listener.js for window 4294967402
+1510328543393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510328774264	Marionette	DEBUG	Register listener.js for window 4294967405
+1510328784536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510328990450	Marionette	DEBUG	Register listener.js for window 4294967408
+1510329000752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510329226071	Marionette	DEBUG	Register listener.js for window 4294967411
+1510329236370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510329416709	Marionette	DEBUG	Register listener.js for window 4294967414
+1510329426971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510329628041	Marionette	DEBUG	Register listener.js for window 4294967417
+1510329638326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510329850182	Marionette	DEBUG	Register listener.js for window 4294967420
+1510329860459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510330041852	Marionette	DEBUG	Register listener.js for window 4294967423
+1510330052108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510330245256	Marionette	DEBUG	Register listener.js for window 4294967426
+1510330255540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510330469566	Marionette	DEBUG	Register listener.js for window 4294967429
+1510330479843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510330728882	Marionette	DEBUG	Register listener.js for window 4294967432
+1510330739163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510330966286	Marionette	DEBUG	Register listener.js for window 4294967435
+1510330976569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510331186745	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/3"
+1510331186827	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/3"
+1510331186827	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/3"
+1510331187086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/4"
+1510331187097	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/4"
+1510331187220	Marionette	DEBUG	Register listener.js for window 4294967439
+1510331197474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510331477346	Marionette	DEBUG	Register listener.js for window 4294967442
+1510331487632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510331712884	Marionette	DEBUG	Register listener.js for window 4294967445
+1510331723190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510331901684	Marionette	DEBUG	Register listener.js for window 4294967448
+1510331911938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510332132977	Marionette	DEBUG	Register listener.js for window 4294967451
+1510332143227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510332332442	Marionette	DEBUG	Register listener.js for window 4294967454
+1510332342686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510332580553	Marionette	DEBUG	Register listener.js for window 4294967457
+1510332590818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510332806584	Marionette	DEBUG	Register listener.js for window 4294967460
+1510332816840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510333024785	Marionette	DEBUG	Register listener.js for window 4294967463
+1510333035038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510333236473	Marionette	DEBUG	Register listener.js for window 4294967466
+1510333246756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510333449377	Marionette	DEBUG	Register listener.js for window 4294967469
+1510333459666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510333658988	Marionette	DEBUG	Register listener.js for window 4294967472
+1510333669242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510333880806	Marionette	DEBUG	Register listener.js for window 4294967475
+1510333891102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510334129497	Marionette	DEBUG	Register listener.js for window 4294967478
+1510334139781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510334431184	Marionette	DEBUG	Register listener.js for window 4294967481
+1510334441467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510334719992	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/4"
+1510334720078	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/4"
+1510334720078	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/4"
+1510334720207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/5"
+1510334730127	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/5"
+1510334730224	Marionette	DEBUG	Register listener.js for window 4294967485
+1510334740493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510334953278	Marionette	DEBUG	Register listener.js for window 4294967488
+1510334963540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510335143914	Marionette	DEBUG	Register listener.js for window 4294967491
+1510335154228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510335373996	Marionette	DEBUG	Register listener.js for window 4294967494
+1510335384267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510335599019	Marionette	DEBUG	Register listener.js for window 4294967497
+1510335609310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510335868577	Marionette	DEBUG	Register listener.js for window 4294967500
+1510335878855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462309025	geckodriver	INFO	geckodriver 0.19.1
+1510462309072	geckodriver	INFO	Listening on 127.0.0.1:19633
+1510462310663	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ktwnho5MxrVf"
+1510462312471	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510462314595	Marionette	INFO	Enabled via --marionette
+[Parent 16096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510462323895	Marionette	INFO	Listening on port 19639
+1510462324531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510462324795	Marionette	DEBUG	Register listener.js for window 6442450945
+1510462325094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510462326044	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510462326045	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510462327436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510462327438	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510462328283	Marionette	DEBUG	Register listener.js for window 6442450949
+1510462338631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462345905	Marionette	DEBUG	Register listener.js for window 6442450952
+1510462356226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462365412	Marionette	DEBUG	Register listener.js for window 6442450955
+1510462375727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462382095	Marionette	DEBUG	Register listener.js for window 6442450958
+1510462392405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462401359	Marionette	DEBUG	Register listener.js for window 6442450961
+1510462411649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462421645	Marionette	DEBUG	Register listener.js for window 6442450964
+1510462431961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462441499	Marionette	DEBUG	Register listener.js for window 6442450967
+1510462451793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462463239	Marionette	DEBUG	Register listener.js for window 6442450970
+1510462473501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462484427	Marionette	DEBUG	Register listener.js for window 6442450973
+1510462494754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462506622	Marionette	DEBUG	Register listener.js for window 6442450976
+1510462516876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462528718	Marionette	DEBUG	Register listener.js for window 6442450979
+1510462539034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462549803	Marionette	DEBUG	Register listener.js for window 6442450982
+1510462560091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462570991	Marionette	DEBUG	Register listener.js for window 6442450985
+1510462581322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462594660	Marionette	DEBUG	Register listener.js for window 6442450988
+1510462604977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462619042	Marionette	DEBUG	Register listener.js for window 6442450991
+1510462629325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510462639262	Marionette	INFO	New connections will no longer be accepted
+[Parent 16096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
