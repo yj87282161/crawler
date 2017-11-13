@@ -23,8 +23,8 @@ class Robot():
             self.page.quit()
             self.setup(way, sth)
     
-               
-    def navigate_and_download_image(self):
+              
+    def download_image_groups(self):
         elements = self.page.get_elements("XPATH", "//span[@class='title']/a")
         for element in elements:
             group_name = element.text
@@ -33,15 +33,21 @@ class Robot():
             self.page.navigate_to(element, "XPATH", "//em[@id='opic']")
             print("【"+group_name+"】耗时{}秒".format(time.time()-sTime)+"---下载完毕！")
         
-        if self.page.driver.find_element_by_xpath("//a[@class='last']").is_displayed():
-            next_page = self.page.driver.find_element_by_xpath("//a[@class='last']/preceding-sibling::a[1]")
-        else:
-            next_page = self.page.driver.find_element_by_xpath("//div[@class='page']/a")[-1]
              
-        if next_page is not None:
+    def navigate_to_next_page(self):
+        try:
+            next_page = self.page.driver.find_element_by_xpath("//a[@class='last']/preceding-sibling::a[1]")
+        except:
+            next_page = self.page.driver.find_elements_by_xpath("//div[@class='page']/a")[-1]
+            FLAG = 0
+        finally:
             next_page.click()
-            self.navigate_and_download_image()
+            self.download_image_groups()
+            if FLAG == 0:
+                print('======所有图片已下载完成======')
+                return
+            else:
+                self.navigate_to_next_page()
             
-    
     def teardown(self):
         self.page.quit()

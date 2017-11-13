@@ -49,7 +49,7 @@ class Assistant():
             r = requests.get(image_url, headers = headers)
             with open(full_name, 'wb') as f:
                 f.write(r.content)
-            print(image_url+"---下载完成")
+            print(image_url+"---完成")
         except Exception as e:
             print(e)
         lock.release()
