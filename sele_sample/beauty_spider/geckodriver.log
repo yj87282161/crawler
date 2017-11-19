@@ -1551,3 +1551,553 @@ resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554
 1510462629325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1510462639262	Marionette	INFO	New connections will no longer be accepted
 [Parent 16096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983043872	geckodriver	INFO	geckodriver 0.19.1
+1510983043903	geckodriver	INFO	Listening on 127.0.0.1:12701
+1510983044434	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cvh6cxp76AN0"
+1510983044946	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983046451	Marionette	INFO	Enabled via --marionette
+[Child 288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983057509	Marionette	INFO	Listening on port 12707
+1510983058498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983058620	Marionette	DEBUG	Register listener.js for window 6442450945
+1510983058741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983058849	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983058850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983059684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983061358	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983086868	Marionette	INFO	New connections will no longer be accepted
+1510983106924	geckodriver	INFO	geckodriver 0.19.1
+1510983106939	geckodriver	INFO	Listening on 127.0.0.1:12821
+1510983107470	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2i872FwSR7eD"
+1510983107798	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983108790	Marionette	INFO	Enabled via --marionette
+[Child 13084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983112866	Marionette	INFO	Listening on port 12825
+1510983113038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983113079	Marionette	DEBUG	Register listener.js for window 4294967297
+1510983113112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983113330	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983113331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983113554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983113829	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983118953	Marionette	DEBUG	Register listener.js for window 4294967301
+1510983119110	Marionette	INFO	New connections will no longer be accepted
+1510983348639	geckodriver	INFO	geckodriver 0.19.1
+1510983348654	geckodriver	INFO	Listening on 127.0.0.1:12941
+1510983349200	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Kks00JXMy2TO"
+1510983349542	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983350533	Marionette	INFO	Enabled via --marionette
+[Parent 12240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983356165	Marionette	INFO	Listening on port 12945
+1510983356500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983356544	Marionette	DEBUG	Register listener.js for window 4294967297
+1510983356587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983357079	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983357080	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983357315	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983378350	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983383468	Marionette	DEBUG	Register listener.js for window 4294967301
+1510983383606	Marionette	INFO	New connections will no longer be accepted
+1510983576166	geckodriver	INFO	geckodriver 0.19.1
+1510983576166	geckodriver	INFO	Listening on 127.0.0.1:13060
+1510983576712	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HWQQHujhTYyC"
+1510983577076	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983578171	Marionette	INFO	Enabled via --marionette
+[Child 8644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983583160	Marionette	INFO	Listening on port 13064
+1510983583433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983584758	Marionette	DEBUG	Register listener.js for window 4294967297
+1510983584797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983585146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983585146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983585497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983585880	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983590985	Marionette	DEBUG	Register listener.js for window 4294967301
+1510983591126	Marionette	INFO	New connections will no longer be accepted
+1510983618002	geckodriver	INFO	geckodriver 0.19.1
+1510983618002	geckodriver	INFO	Listening on 127.0.0.1:13131
+1510983618533	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ksAwDld53Tax"
+1510983619491	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983620667	Marionette	INFO	Enabled via --marionette
+[Parent 11536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14408] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983625675	Marionette	INFO	Listening on port 13135
+1510983625813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983625854	Marionette	DEBUG	Register listener.js for window 4294967297
+1510983625894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983626373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983626373	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983626765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983627272	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983632477	Marionette	DEBUG	Register listener.js for window 4294967301
+1510983632621	Marionette	INFO	New connections will no longer be accepted
+1510983668907	geckodriver	INFO	geckodriver 0.19.1
+1510983668922	geckodriver	INFO	Listening on 127.0.0.1:13196
+1510983669453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.nTGfX8HjjppT"
+1510983670505	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983671477	Marionette	INFO	Enabled via --marionette
+1510983675575	Marionette	INFO	Listening on port 13200
+1510983675632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983675691	Marionette	DEBUG	Register listener.js for window 4294967297
+1510983675740	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983675931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983675931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983676382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983676784	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983681902	Marionette	DEBUG	Register listener.js for window 4294967301
+1510983682041	Marionette	INFO	New connections will no longer be accepted
+1510983772898	geckodriver	INFO	geckodriver 0.19.1
+1510983772913	geckodriver	INFO	Listening on 127.0.0.1:13280
+1510983772991	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yHyAmNbd0dwf"
+1510983773963	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983774955	Marionette	INFO	Enabled via --marionette
+1510983780508	Marionette	INFO	Listening on port 13284
+1510983780735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983780777	Marionette	DEBUG	Register listener.js for window 6442450945
+1510983780810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983780984	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983780984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983781241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983781634	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983786762	Marionette	DEBUG	Register listener.js for window 6442450949
+1510983786907	Marionette	INFO	New connections will no longer be accepted
+1510983850630	geckodriver	INFO	geckodriver 0.19.1
+1510983850630	geckodriver	INFO	Listening on 127.0.0.1:13356
+1510983851192	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rJ5S0yuPvYYj"
+1510983851528	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510983852472	Marionette	INFO	Enabled via --marionette
+[Child 12828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510983857212	Marionette	INFO	Listening on port 13360
+1510983857335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510983857378	Marionette	DEBUG	Register listener.js for window 6442450945
+1510983857411	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510983857751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510983857824	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510983858093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510983858505	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510983863640	Marionette	DEBUG	Register listener.js for window 6442450949
+1510983866921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983874882	Marionette	DEBUG	Register listener.js for window 6442450952
+1510983878142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983888092	Marionette	DEBUG	Register listener.js for window 6442450955
+1510983891351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983900571	Marionette	DEBUG	Register listener.js for window 6442450958
+1510983903818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983916301	Marionette	DEBUG	Register listener.js for window 6442450961
+1510983919555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983931656	Marionette	DEBUG	Register listener.js for window 6442450964
+1510983934911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983948072	Marionette	DEBUG	Register listener.js for window 6442450967
+1510983951319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983964481	Marionette	DEBUG	Register listener.js for window 6442450970
+1510983967731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983981141	Marionette	DEBUG	Register listener.js for window 6442450973
+1510983984378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510983991400	Marionette	DEBUG	Register listener.js for window 6442450976
+1510983994633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984004847	Marionette	DEBUG	Register listener.js for window 6442450979
+1510984008086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984018265	Marionette	DEBUG	Register listener.js for window 6442450982
+1510984021519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984032816	Marionette	DEBUG	Register listener.js for window 6442450985
+1510984036074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984048937	Marionette	DEBUG	Register listener.js for window 6442450988
+1510984052171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984062965	Marionette	DEBUG	Register listener.js for window 6442450991
+1510984066219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984079764	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/"
+1510984079847	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/"
+1510984079847	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/"
+1510984079893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/2"
+1510984080022	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/2"
+1510984083097	Marionette	DEBUG	Register listener.js for window 6442450995
+1510984086382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984098824	Marionette	DEBUG	Register listener.js for window 6442450998
+1510984102077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984115090	Marionette	DEBUG	Register listener.js for window 6442451001
+1510984118344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984126064	Marionette	DEBUG	Register listener.js for window 6442451004
+1510984129306	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984139160	Marionette	DEBUG	Register listener.js for window 6442451007
+1510984142444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984160304	Marionette	DEBUG	Register listener.js for window 6442451010
+1510984163557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984186024	Marionette	DEBUG	Register listener.js for window 6442451013
+1510984189275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984201102	Marionette	DEBUG	Register listener.js for window 6442451016
+1510984204346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984211418	Marionette	DEBUG	Register listener.js for window 6442451019
+1510984214687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984225823	Marionette	DEBUG	Register listener.js for window 6442451022
+1510984229061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984238187	Marionette	DEBUG	Register listener.js for window 6442451025
+1510984241445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984250092	Marionette	DEBUG	Register listener.js for window 6442451028
+1510984253339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984264209	Marionette	DEBUG	Register listener.js for window 6442451031
+1510984267462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984278421	Marionette	DEBUG	Register listener.js for window 6442451034
+1510984281677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984295597	Marionette	DEBUG	Register listener.js for window 6442451037
+1510984298844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984309197	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/2"
+1510984309285	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/2"
+1510984309285	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/2"
+1510984309334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/3"
+1510984309465	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/3"
+1510984312540	Marionette	DEBUG	Register listener.js for window 6442451041
+1510984315810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984332164	Marionette	DEBUG	Register listener.js for window 6442451044
+1510984335419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984348687	Marionette	DEBUG	Register listener.js for window 6442451047
+1510984351937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984361332	Marionette	DEBUG	Register listener.js for window 6442451050
+1510984364566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984373155	Marionette	DEBUG	Register listener.js for window 6442451053
+1510984376365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984384206	Marionette	DEBUG	Register listener.js for window 6442451056
+1510984387447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984393378	Marionette	DEBUG	Register listener.js for window 6442451059
+1510984396628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984404328	Marionette	DEBUG	Register listener.js for window 6442451062
+1510984407600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984415487	Marionette	DEBUG	Register listener.js for window 6442451065
+1510984418734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984427087	Marionette	DEBUG	Register listener.js for window 6442451068
+1510984430328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984437725	Marionette	DEBUG	Register listener.js for window 6442451071
+1510984440988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984447646	Marionette	DEBUG	Register listener.js for window 6442451074
+1510984450887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984459237	Marionette	DEBUG	Register listener.js for window 6442451077
+1510984462489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984470790	Marionette	DEBUG	Register listener.js for window 6442451080
+1510984474046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984486605	Marionette	DEBUG	Register listener.js for window 6442451083
+1510984489854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984500335	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/3"
+1510984500418	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/3"
+1510984500419	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/3"
+1510984500469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/4"
+1510984500586	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/4"
+1510984503661	Marionette	DEBUG	Register listener.js for window 6442451087
+1510984506920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984518367	Marionette	DEBUG	Register listener.js for window 6442451090
+1510984521614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984533958	Marionette	DEBUG	Register listener.js for window 6442451093
+1510984537209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984547016	Marionette	DEBUG	Register listener.js for window 6442451096
+1510984550282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984561863	Marionette	DEBUG	Register listener.js for window 6442451099
+1510984565118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984573832	Marionette	DEBUG	Register listener.js for window 6442451102
+1510984577087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984588451	Marionette	DEBUG	Register listener.js for window 6442451105
+1510984591700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984602765	Marionette	DEBUG	Register listener.js for window 6442451108
+1510984606027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984617792	Marionette	DEBUG	Register listener.js for window 6442451111
+1510984621051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984628298	Marionette	DEBUG	Register listener.js for window 6442451114
+1510984631543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984639185	Marionette	DEBUG	Register listener.js for window 6442451117
+1510984642436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984649256	Marionette	DEBUG	Register listener.js for window 6442451120
+1510984652508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984659734	Marionette	DEBUG	Register listener.js for window 6442451123
+1510984662956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984668885	Marionette	DEBUG	Register listener.js for window 6442451126
+1510984672122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984679420	Marionette	DEBUG	Register listener.js for window 6442451129
+1510984682672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984689381	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/4"
+1510984689461	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/4"
+1510984689461	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/4"
+1510984689511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/5"
+1510984689612	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/5"
+1510984692687	Marionette	DEBUG	Register listener.js for window 6442451133
+1510984695946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984704144	Marionette	DEBUG	Register listener.js for window 6442451136
+1510984707389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984714251	Marionette	DEBUG	Register listener.js for window 6442451139
+1510984717502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984724167	Marionette	DEBUG	Register listener.js for window 6442451142
+1510984727391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984734733	Marionette	DEBUG	Register listener.js for window 6442451145
+1510984737989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984745669	Marionette	DEBUG	Register listener.js for window 6442451148
+1510984748929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984758888	Marionette	DEBUG	Register listener.js for window 6442451151
+1510984762140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984778738	Marionette	DEBUG	Register listener.js for window 6442451154
+1510984782001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984790731	Marionette	DEBUG	Register listener.js for window 6442451157
+1510984793976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984800744	Marionette	DEBUG	Register listener.js for window 6442451160
+1510984803990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984809917	Marionette	DEBUG	Register listener.js for window 6442451163
+1510984813169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984819881	Marionette	DEBUG	Register listener.js for window 6442451166
+1510984823135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984831313	Marionette	DEBUG	Register listener.js for window 6442451169
+1510984834573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984842536	Marionette	DEBUG	Register listener.js for window 6442451172
+1510984845778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984854755	Marionette	DEBUG	Register listener.js for window 6442451175
+1510984857995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984865588	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.mmjpg.com/home/5"
+1510984865713	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.mmjpg.com/home/5"
+1510984865713	Marionette	DEBUG	Received DOM event "unload" for "http://www.mmjpg.com/home/5"
+1510984865744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/home/6"
+1510984866346	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/home/6"
+1510984869438	Marionette	DEBUG	Register listener.js for window 6442451179
+1510984872712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984881715	Marionette	DEBUG	Register listener.js for window 6442451182
+1510984884962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984894238	Marionette	DEBUG	Register listener.js for window 6442451185
+1510984897498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984904571	Marionette	DEBUG	Register listener.js for window 6442451188
+1510984907796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984916106	Marionette	DEBUG	Register listener.js for window 6442451191
+1510984919380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510984931587	Marionette	DEBUG	Register listener.js for window 6442451194
+1510984934821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510986332281	geckodriver	INFO	geckodriver 0.19.1
+1510986332281	geckodriver	INFO	Listening on 127.0.0.1:21170
+1510986332858	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.CefTf1ed53xt"
+1510986334412	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510986335626	Marionette	INFO	Enabled via --marionette
+[Parent 8576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510986342181	Marionette	INFO	Listening on port 21175
+1510986342645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510986342687	Marionette	DEBUG	Register listener.js for window 4294967297
+1510986342720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510986342896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510986342896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510986343255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510986343687	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510986343808	Marionette	DEBUG	Register listener.js for window 4294967301
+1510986344156	Marionette	DEBUG	Register listener.js for window 4294967304
+1510986344273	Marionette	DEBUG	Register listener.js for window 4294967307
+1510986344370	Marionette	DEBUG	Register listener.js for window 4294967310
+1510986344462	Marionette	DEBUG	Register listener.js for window 4294967313
+1510986344596	Marionette	DEBUG	Register listener.js for window 4294967316
+1510986344919	Marionette	DEBUG	Register listener.js for window 4294967321
+1510986344944	Marionette	DEBUG	Register listener.js for window 4294967319
+1510986345137	Marionette	DEBUG	Register listener.js for window 4294967327
+1510986345162	Marionette	DEBUG	Register listener.js for window 4294967325
+1510986345276	Marionette	DEBUG	Register listener.js for window 4294967333
+1510986345339	Marionette	DEBUG	Register listener.js for window 4294967331
+1510986345578	Marionette	DEBUG	Register listener.js for window 4294967339
+1510986345636	Marionette	DEBUG	Register listener.js for window 4294967337
+1510986345854	Marionette	DEBUG	Register listener.js for window 4294967345
+1510986345917	Marionette	DEBUG	Register listener.js for window 4294967343
+1510986346045	Marionette	DEBUG	Register listener.js for window 4294967349
+1510986346172	Marionette	DEBUG	Register listener.js for window 4294967352
+1510986346294	Marionette	DEBUG	Register listener.js for window 4294967355
+1510986346489	Marionette	DEBUG	Register listener.js for window 4294967358
+1510986346634	Marionette	DEBUG	Register listener.js for window 4294967361
+1510986346758	Marionette	DEBUG	Register listener.js for window 4294967364
+1510986346941	Marionette	DEBUG	Register listener.js for window 4294967367
+1510986347208	Marionette	DEBUG	Register listener.js for window 4294967370
+1510986347424	Marionette	DEBUG	Register listener.js for window 4294967373
+1510986347605	Marionette	DEBUG	Register listener.js for window 4294967376
+1510986347790	Marionette	DEBUG	Register listener.js for window 4294967379
+1510986347957	Marionette	DEBUG	Register listener.js for window 4294967382
+1510986348083	Marionette	DEBUG	Register listener.js for window 4294967385
+1510986348339	Marionette	DEBUG	Register listener.js for window 4294967390
+1510986348366	Marionette	DEBUG	Register listener.js for window 4294967388
+1510986348526	Marionette	DEBUG	Register listener.js for window 4294967394
+1510986348658	Marionette	DEBUG	Register listener.js for window 4294967397
+1510986348825	Marionette	DEBUG	Register listener.js for window 4294967400
+1510986348983	Marionette	DEBUG	Register listener.js for window 4294967403
+1510986349098	Marionette	DEBUG	Register listener.js for window 4294967406
+1510986349223	Marionette	DEBUG	Register listener.js for window 4294967409
+1510986349414	Marionette	DEBUG	Register listener.js for window 4294967414
+1510986349466	Marionette	DEBUG	Register listener.js for window 4294967412
+1510986349670	Marionette	DEBUG	Register listener.js for window 4294967418
+1510986350013	Marionette	DEBUG	Register listener.js for window 4294967421
+1510986350183	Marionette	DEBUG	Register listener.js for window 4294967424
+1510986350292	Marionette	DEBUG	Register listener.js for window 4294967427
+1510986350488	Marionette	DEBUG	Register listener.js for window 4294967432
+1510986350534	Marionette	DEBUG	Register listener.js for window 4294967430
+1510986350708	Marionette	DEBUG	Register listener.js for window 4294967438
+1510986350754	Marionette	DEBUG	Register listener.js for window 4294967436
+1510986350867	Marionette	DEBUG	Register listener.js for window 4294967442
+1510986351618	Marionette	DEBUG	Register listener.js for window 4294967445
+1510986351812	Marionette	DEBUG	Register listener.js for window 4294967448
+1510986351933	Marionette	DEBUG	Register listener.js for window 4294967451
+1510986352052	Marionette	DEBUG	Register listener.js for window 4294967454
+1510986352172	Marionette	DEBUG	Register listener.js for window 4294967457
+1510986352326	Marionette	DEBUG	Register listener.js for window 4294967462
+1510986352376	Marionette	DEBUG	Register listener.js for window 4294967460
+1510986352614	Marionette	DEBUG	Register listener.js for window 4294967468
+1510986352655	Marionette	DEBUG	Register listener.js for window 4294967466
+1510986352763	Marionette	DEBUG	Register listener.js for window 4294967472
+1510986352941	Marionette	DEBUG	Register listener.js for window 4294967475
+1510986353119	Marionette	DEBUG	Register listener.js for window 4294967480
+1510986353167	Marionette	DEBUG	Register listener.js for window 4294967478
+1510986353378	Marionette	DEBUG	Register listener.js for window 4294967484
+1510986353541	Marionette	DEBUG	Register listener.js for window 4294967487
+1510986353785	Marionette	DEBUG	Register listener.js for window 4294967492
+1510986353854	Marionette	DEBUG	Register listener.js for window 4294967490
+1510986353991	Marionette	DEBUG	Register listener.js for window 4294967496
+1510986354117	Marionette	DEBUG	Register listener.js for window 4294967499
+1510986354289	Marionette	DEBUG	Register listener.js for window 4294967504
+1510986354355	Marionette	DEBUG	Register listener.js for window 4294967502
+1510986354560	Marionette	DEBUG	Register listener.js for window 4294967510
+1510986354615	Marionette	DEBUG	Register listener.js for window 4294967508
+1510986354795	Marionette	DEBUG	Register listener.js for window 4294967516
+1510986354856	Marionette	DEBUG	Register listener.js for window 4294967514
+1510986354990	Marionette	DEBUG	Register listener.js for window 4294967520
+1510986355148	Marionette	DEBUG	Register listener.js for window 4294967525
+1510986355208	Marionette	DEBUG	Register listener.js for window 4294967523
+1510986355369	Marionette	DEBUG	Register listener.js for window 4294967529
+1510986355486	Marionette	DEBUG	Register listener.js for window 4294967532
+1510986355626	Marionette	DEBUG	Register listener.js for window 4294967537
+1510986355688	Marionette	DEBUG	Register listener.js for window 4294967535
+1510986356080	Marionette	DEBUG	Register listener.js for window 4294967543
+1510986356108	Marionette	DEBUG	Register listener.js for window 4294967541
+1510986356258	Marionette	DEBUG	Register listener.js for window 4294967547
+1510986356375	Marionette	DEBUG	Register listener.js for window 4294967550
+1510986356467	Marionette	DEBUG	Register listener.js for window 4294967553
+1510986356611	Marionette	DEBUG	Register listener.js for window 4294967556
+1510986356709	Marionette	DEBUG	Register listener.js for window 4294967559
+1510986356969	Marionette	DEBUG	Register listener.js for window 4294967562
+1510986357111	Marionette	DEBUG	Register listener.js for window 4294967565
+1510986357253	Marionette	DEBUG	Register listener.js for window 4294967568
+1510986357360	Marionette	DEBUG	Register listener.js for window 4294967571
+1510986357505	Marionette	DEBUG	Register listener.js for window 4294967574
+1510986357617	Marionette	DEBUG	Register listener.js for window 4294967577
+1510986357737	Marionette	DEBUG	Register listener.js for window 4294967580
+1510986357906	Marionette	DEBUG	Register listener.js for window 4294967583
+1510986358103	Marionette	DEBUG	Register listener.js for window 4294967586
+1510986358202	Marionette	DEBUG	Register listener.js for window 4294967589
+1510986358317	Marionette	DEBUG	Register listener.js for window 4294967592
+1510986358449	Marionette	DEBUG	Register listener.js for window 4294967595
+1510986358568	Marionette	DEBUG	Register listener.js for window 4294967598
+1510986358749	Marionette	DEBUG	Register listener.js for window 4294967603
+1510986358802	Marionette	DEBUG	Register listener.js for window 4294967601
+1510986358918	Marionette	DEBUG	Register listener.js for window 4294967607
+1510986359113	Marionette	DEBUG	Register listener.js for window 4294967611
+1510986359174	Marionette	DEBUG	Register listener.js for window 4294967610
+1510986359384	Marionette	DEBUG	Register listener.js for window 4294967616
+1510986359493	Marionette	DEBUG	Register listener.js for window 4294967619
+1510986359664	Marionette	DEBUG	Register listener.js for window 4294967622
+1510986359857	Marionette	DEBUG	Register listener.js for window 4294967627
+1510986359920	Marionette	DEBUG	Register listener.js for window 4294967625
+1510986360041	Marionette	DEBUG	Register listener.js for window 4294967631
+1510986360143	Marionette	DEBUG	Register listener.js for window 4294967634
+1510986360307	Marionette	DEBUG	Register listener.js for window 4294967639
+1510986360373	Marionette	DEBUG	Register listener.js for window 4294967637
+1510986360525	Marionette	DEBUG	Register listener.js for window 4294967643
+1510986360623	Marionette	DEBUG	Register listener.js for window 4294967646
+1510986360733	Marionette	DEBUG	Register listener.js for window 4294967649
+1510986360845	Marionette	DEBUG	Register listener.js for window 4294967654
+1510986360889	Marionette	DEBUG	Register listener.js for window 4294967652
+1510986361008	Marionette	DEBUG	Register listener.js for window 4294967660
+1510986361069	Marionette	DEBUG	Register listener.js for window 4294967658
+1510986361445	Marionette	DEBUG	Register listener.js for window 4294967666
+1510986361557	Marionette	DEBUG	Register listener.js for window 4294967664
+1510986361736	Marionette	DEBUG	Register listener.js for window 4294967670
+1510986361915	Marionette	DEBUG	Register listener.js for window 4294967673
+1510986362120	Marionette	DEBUG	Register listener.js for window 4294967677
+1510986362916	Marionette	DEBUG	Register listener.js for window 4294967676
+[Parent 8576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510986363605	Marionette	INFO	New connections will no longer be accepted
+1510986402340	geckodriver	INFO	geckodriver 0.19.1
+1510986402340	geckodriver	INFO	Listening on 127.0.0.1:21381
+1510986402901	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.T7e61S4J6NPd"
+1510986403813	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510986404754	Marionette	INFO	Enabled via --marionette
+[Child 14216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510986409616	Marionette	INFO	Listening on port 21385
+1510986409701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510986409752	Marionette	DEBUG	Register listener.js for window 6442450945
+1510986410421	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510986411055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510986411055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510986411326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510986411639	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510986411775	Marionette	DEBUG	Register listener.js for window 6442450949
+1510986411949	Marionette	DEBUG	Register listener.js for window 6442450952
+1510986412029	Marionette	DEBUG	Register listener.js for window 6442450955
+1510986412142	Marionette	DEBUG	Register listener.js for window 6442450960
+1510986412188	Marionette	DEBUG	Register listener.js for window 6442450958
+1510986412254	Marionette	DEBUG	Register listener.js for window 6442450964
+1510986412376	Marionette	DEBUG	Register listener.js for window 6442450967
+1510986412496	Marionette	DEBUG	Register listener.js for window 6442450970
+1510986412615	Marionette	DEBUG	Register listener.js for window 6442450973
+1510986412719	Marionette	DEBUG	Register listener.js for window 6442450976
+1510986412805	Marionette	DEBUG	Register listener.js for window 6442450979
+1510986412880	Marionette	DEBUG	Register listener.js for window 6442450982
+1510986413128	Marionette	DEBUG	Register listener.js for window 6442450987
+1510986413148	Marionette	DEBUG	Register listener.js for window 6442450985
+1510986413268	Marionette	DEBUG	Register listener.js for window 6442450991
+1510986413468	Marionette	DEBUG	Register listener.js for window 6442450996
+1510986413508	Marionette	DEBUG	Register listener.js for window 6442450994
+1510986413589	Marionette	DEBUG	Register listener.js for window 6442451000
+1510986413738	Marionette	DEBUG	Register listener.js for window 6442451003
+1510986413877	Marionette	DEBUG	Register listener.js for window 6442451006
+1510986414120	Marionette	DEBUG	Register listener.js for window 6442451009
+1510986414433	Marionette	DEBUG	Register listener.js for window 6442451012
+1510986414543	Marionette	DEBUG	Register listener.js for window 6442451015
+1510986414668	Marionette	DEBUG	Register listener.js for window 6442451018
+1510986414831	Marionette	DEBUG	Register listener.js for window 6442451021
+1510986415048	Marionette	DEBUG	Register listener.js for window 6442451024
+1510986415253	Marionette	DEBUG	Register listener.js for window 6442451027
+1510986415352	Marionette	DEBUG	Register listener.js for window 6442451030
+1510986415546	Marionette	DEBUG	Register listener.js for window 6442451035
+1510986415587	Marionette	DEBUG	Register listener.js for window 6442451033
+1510986415776	Marionette	DEBUG	Register listener.js for window 6442451039
+1510986415871	Marionette	DEBUG	Register listener.js for window 6442451042
+1510986415974	Marionette	DEBUG	Register listener.js for window 6442451047
+1510986416030	Marionette	DEBUG	Register listener.js for window 6442451045
+1510986416128	Marionette	DEBUG	Register listener.js for window 6442451051
+1510986416356	Marionette	DEBUG	Register listener.js for window 6442451056
+1510986416407	Marionette	DEBUG	Register listener.js for window 6442451054
+1510986416743	Marionette	DEBUG	Register listener.js for window 6442451062
+1510986473899	geckodriver	INFO	geckodriver 0.19.1
+1510986473899	geckodriver	INFO	Listening on 127.0.0.1:21495
+1510986474445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.zbZrQxiIu7Wh"
+1510986474909	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510986476005	Marionette	INFO	Enabled via --marionette
+[Parent 12016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510986480593	Marionette	INFO	Listening on port 21499
+1510986480632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510986480689	Marionette	DEBUG	Register listener.js for window 4294967297
+1510986480764	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510986480939	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510986480939	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510986481180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.mmjpg.com/"
+1510986481598	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.mmjpg.com/"
+1510986481737	Marionette	DEBUG	Register listener.js for window 4294967301
+1510986483999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510986491362	Marionette	DEBUG	Register listener.js for window 4294967304
+1510986493625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510986502805	Marionette	DEBUG	Register listener.js for window 4294967307
+1510986505050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510986516378	Marionette	DEBUG	Register listener.js for window 4294967310
+1510986518649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 12016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

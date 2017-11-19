@@ -9,7 +9,7 @@ from sele_sample.beauty_spider.robot import Robot
 # import pdb
 
 if __name__ == '__main__':
-    robot = Robot("http://www.mmjpg.com")
+    robot = Robot("http://www.mmjpg.com/")
     robot.setup('CLASS', 'pic')
     try:
         robot.download_image_groups()

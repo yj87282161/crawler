@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from sele_sample.beauty_spider.assistant import Assistant
-import re, time, threading
+import re, time
 
 class Page():
     
@@ -19,6 +19,8 @@ class Page():
         self.driver = webdriver.PhantomJS(executable_path=r"C:\Python36\phantomjs.exe")
         self.wait = WebDriverWait(self.driver, 20)
         self.assist = Assistant()
+        # 设置当前标签为活动标签
+        self.handle = self.driver.current_window_handle
     
 
     def launch_browser(self, url):
@@ -78,17 +80,41 @@ class Page():
         return elements
         
     
-    def navigate_to(self, element, way, sth):
-        handle = self.driver.current_window_handle
+    def click_element(self, element):
         element.click()
-        time.sleep(10)
-        handles = self.driver.window_handles
+    
+    
+    def navigate_to_new_tab(self, handles, element):
         for newhandle in handles:
-            if newhandle != handle:
+            if newhandle != self.handle:
                 self.driver.switch_to_window(newhandle)
-                self.wait_element(way, sth)
-                self.get_element(way, sth).click()
+                try:
+                    self.get_element("XPATH", "//em[@id='opic']").click()
+                except:
+                    self._back_to_image_groups()
+                    self._navigate_to_images(element)
                 break
+    
+    
+    def _navigate_to_images(self, element):
+        self.click_element(element)
+        time.sleep(2)
+        # 获取当前浏览器所有标签
+        handles = self.driver.window_handles
+        # 标签数为1时重新点击
+        while len(handles) == 1:
+            self.click_element(element)
+        # 标签数为2进入新标签    
+        self.navigate_to_new_tab(handles, element)
+        
+        
+    def _back_to_image_groups(self):
+        self.driver.close()
+        self.driver.switch_to_window(self.handle)
+    
+    
+    def download_image_into_group(self, element, image_group_num):
+        self._navigate_to_images(element)
         # 去掉文件名中的特殊字符,举例如下
         # re.sub(r'[`~!@#$%^&*)(+=}{|><,.?/\\\-\]\[]', '', STRING)
         group = re.sub(
@@ -96,22 +122,33 @@ class Page():
                     '', 
                     self.get_element("XPATH", "//div[@class='article']/h2").text
                 )
-        self.assist.create_folder(group)
-        print("【"+group+"】 ---组创建成功")
-        images = self.get_elements("XPATH", "//div[@id='content']/img")
+        group = '{}_'.format(str(image_group_num))+group
+        self.assist.create_image_group_folder(group)
+        print("...【"+group+"】 ---组创建成功")
+        image_urls = [image.get_attribute('src') for image in self.get_elements("XPATH", "//div[@id='content']/img")]
+            
+        '''多线程加快图片下载'''
+        self.assist.process_download_image(image_urls, group)
         
-        '''下一步通过多线程或多进程加快图片下载'''
-        for image in images:
-#             self.assist.download_image(group, image.get_attribute('src'))
-#             time.sleep(3)
-            lock = threading.Condition()
-            t = threading.Thread(target=self.assist.download_image, args=(lock, group, image.get_attribute('src')))
-            t.start()
-            t.join()
+        self._back_to_image_groups()
         
-        self.driver.close()
-        self.driver.switch_to_window(handle)
-        
-   
+    
+    def download_image_into_root(self, element):
+        self._navigate_to_images(element)
+        # 去掉文件名中的特殊字符,举例如下
+        # re.sub(r'[`~!@#$%^&*)(+=}{|><,.?/\\\-\]\[]', '', STRING)
+        group = re.sub(
+                    r'[`~!@#$%^&*)(+=}{|><,.?/\\\-\]\[]', 
+                    '', 
+                    self.get_element("XPATH", "//div[@class='article']/h2").text
+                )
+        # 创建文件夹
+        self.assist.create_root_folder()
+        image_urls = [image.get_attribute('src') for image in self.get_elements("XPATH", "//div[@id='content']/img")]
+        '''多线程加快图片下载'''
+        self.assist.process_download_image(image_urls, group)
+        self._back_to_image_groups()
+    
+    
     def quit(self):
         self.driver.quit()
